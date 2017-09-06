@@ -1,6 +1,6 @@
 # JSPlaygrounds
 
-[Show me the demo!](https://renaudtertrais.github.io/JSPlaygrounds//)
+[Show me the demo!](https://docode-ru.github.io/JSPlaygrounds/)
 
 ### Running Locally
 

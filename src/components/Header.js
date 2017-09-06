@@ -121,6 +121,8 @@ const Header = props => {
         <button className={formatedResultClasses} onClick={() => onToggleFormatedResult(!formatedResult)}>
           <i className="mdi mdi-code-braces" />
         </button>
+        <a className="Header__themes-select Header__link" href="http://docode.ru" target="_blank">DoCode.Ru</a>
+
       </div>
     </header>
   );

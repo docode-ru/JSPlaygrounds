@@ -67,6 +67,15 @@
   }
 }
 
+.Header__link {
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 10px;
+  color: white;
+  background-color: black;
+  padding: 5px 5px;
+}
+
 .Header__button--icon{
   text-align: center;
   padding: 0;

@@ -1,2 +1,8 @@
 /node_modules
 npm-debug.log
+*.woff
+*.eot
+*.ttf
+*.svg
+bundle.js
+package-lock.json
